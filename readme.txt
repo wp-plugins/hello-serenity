@@ -1,39 +1,16 @@
 === Hello Serenity ===
 Contributors: iandmitch
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7U2ZU9AMBXPTA&lc=GB&item_name=Hello%20Serenity%20Plugin&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
-Tags: quotes, firefly, serenity, joss whedon, river tam
+Tags: quotes, firefly, serenity, joss whedon, river tam, browncoat
 Requires at least: 2.0.2
 Tested up to: 3.1.3
 Stable tag: trunk
 
-Displays quotes from Joss Whedon's Firefly and Serenity. Based on to Hello Dolly
+Displays quotes from Joss Whedon's Firefly and Serenity. Based on the original plugin Hello Dolly.
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
-
-A few notes about the sections above:
-
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
-*   "Requires at least" is the lowest version that the plugin will work on
-*   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
-higher versions... this is just the highest one you've verified.
-*   Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for
-stable.
-
-    Note that the `readme.txt` of the stable tag is the one that is considered the defining one for the plugin, so
-if the `/trunk/readme.txt` file says that the stable tag is `4.3`, then it is `/tags/4.3/readme.txt` that'll be used
-for displaying information about the plugin.  In this situation, the only thing considered from the trunk `readme.txt`
-is the stable tag pointer.  Thus, if you develop in trunk, you can update the trunk `readme.txt` to reflect changes in
-your in-development version, without having that information incorrectly disclosed about the current stable version
-that lacks those changes -- as long as the trunk's `readme.txt` points to the correct stable tag.
-
-    If no stable tag is provided, it is assumed that trunk is stable, but you should specify "trunk" if that's where
-you put the stable version, in order to eliminate any doubt.
+Displays quotes from Joss Whedon's Firefly TV series and Serenity film. Based on the original plugin Hello Dolly.
 
 == Installation ==
 
@@ -45,7 +22,7 @@ you put the stable version, in order to eliminate any doubt.
 
 == Frequently Asked Questions ==
 
-= can I add more quotes? =
+= Can I add more quotes? =
 
 Yes, definitely! Just edit the hello-serenity.php in a text editor and add more lines.
 
