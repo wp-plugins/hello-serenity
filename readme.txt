@@ -1,7 +1,7 @@
 === Hello Serenity ===
 Contributors: iandmitch
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7U2ZU9AMBXPTA&lc=GB&item_name=Hello%20Serenity%20Plugin&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
-Tags: quotes, firefly, serenity, joss whedon, river tam, browncoat
+Tags: quotes, firefly, serenity, joss whedon, river tam, browncoat, admin
 Requires at least: 2.0.2
 Tested up to: 3.1.3
 Stable tag: trunk
